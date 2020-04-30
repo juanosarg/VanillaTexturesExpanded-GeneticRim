@@ -1,0 +1,26 @@
+<ModMetaData>
+	<name>Vanilla Textures Expanded - Genetic Rim</name>
+	<author>Oskar Potocki, Sarg Bjornson</author>
+	<supportedVersions>
+     
+      <li>1.1</li>
+   </supportedVersions>
+    <modDependencies>
+		<li>
+			<packageId>sarg.geneticrim</packageId>
+			<displayName>Genetic Rim</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1113137502</steamWorkshopUrl>
+			<downloadUrl>https://github.com/juanosarg/GeneticRim/releases</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>sarg.geneticrim</li>
+		
+	</loadAfter>
+	<packageId>VanillaExpanded.VTEXGR</packageId>
+	<description>
+	Description here
+
+
+		</description>
+</ModMetaData>
