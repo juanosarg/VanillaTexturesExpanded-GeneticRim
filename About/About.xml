@@ -18,8 +18,26 @@
 		
 	</loadAfter>
 	<packageId>VanillaExpanded.VTEXGR</packageId>
-	<description>
-	Description here
+	<description>&lt;size=24&gt;Features&lt;/size&gt;
+Vanilla Textures Expanded - Genetic Rim is a full-scale overhaul of Genetic Rim textures, with its main aim being improving the quality of the artwork and make it more in-line with textures of Vanilla game and Vanilla Expanded mod series. 
+
+This texture pack includes over 550 textures remade in vector-based software (same method used for Vanilla Expanded mods and vanilla game), exported into higher resolution for a cleaner, more sophisticated outcome.
+
+When redrawing the Genetic Rim textures, our main focus was on keeping them consistent with what players are used to - We only applied drastic changes to artworks that weren’t as logical or aesthetically pleasing. The way we did it, is we analyzed the animals that create a given mutation, and then applied their traits onto a new creature.
+
+&lt;size=24&gt;Issues&lt;/size&gt;
+Giddy-Up Saddles in some creatures will need to be redone from scratch. This will be worked on at a later date, since it is a ton of work
+
+&lt;size=24&gt;Plans for the future&lt;/size&gt;
+- Textures for the Dinosauria, Megafauna, Alpha Animals and Cosmic Horrors patches redone
+
+&lt;size=24&gt;Compatibility&lt;/size&gt;
+Since this is a texture mod it should be compatible with almost everything
+
+
+
+&lt;size=24&gt;Changelog&lt;/size&gt;
+v1.0: Release (23/05/20)
 
 
 		</description>
