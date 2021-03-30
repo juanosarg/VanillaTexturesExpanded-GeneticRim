@@ -1,6 +1,6 @@
 <ModMetaData>
 	<name>Vanilla Textures Expanded - Genetic Rim</name>
-	<author>Oskar Potocki, Sarg Bjornson</author>
+	<author>Oskar Potocki, Sarg Bjornson, Luizi</author>
 	<supportedVersions>
      
       <li>1.1</li>
@@ -38,6 +38,7 @@ Since this is a texture mod it should be compatible with almost everything
 
 
 &lt;size=24&gt;Changelog&lt;/size&gt;
+v1.5: Added Dinosauria patch animals (31/03/21)
 v1.4: Added Alpha Animals patch animals (30/03/21)
 v1.3: Added graphics for items for all GR patches (16/10/20)
 v1.2: Updated for RimWorld 1.2 (11/08/20)
